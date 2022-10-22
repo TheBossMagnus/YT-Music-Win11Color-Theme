@@ -34,7 +34,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/youtube-music-logo.svg" alt="Logo" width="80" height="80">
+    <img src="images/youtube-music-logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Windows 11 color theme for YT Music Desktop</h3>
