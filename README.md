@@ -32,8 +32,7 @@
                                                                    
 
 <br />
-<div align="center">
-    <img src="https://github.com/TheBossMagnus/YT-Music-Win11Color-Theme/blob/main/Images/youtube-music-logo.png?raw=true">
+<img src="https://github.com/TheBossMagnus/YT-Music-Win11Color-Theme/blob/main/Images/youtube-music-logo.png?raw=true">
 
 <h3 align="center">Windows 11 color theme for YT Music Desktop</h3>
 
