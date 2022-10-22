@@ -62,7 +62,7 @@
 
 ## Screanshot
 <img src="https://github.com/TheBossMagnus/YT-Music-Win11Color-Theme/blob/main/Images/1.png?raw=true">
-<img src= https://github.com/TheBossMagnus/YT-Music-Win11Color-Theme/blob/main/2.png?raw=true>
+<img src="https://github.com/TheBossMagnus/YT-Music-Win11Color-Theme/blob/main/Images/2.png?raw=true">
      
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
