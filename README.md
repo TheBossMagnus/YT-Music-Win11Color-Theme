@@ -1,9 +1,9 @@
-<img src="https://github.com/TheBossMagnus/YT-Music-Win11Color-Theme/blob/main/Images/youtube-music-logo.png?raw=true">
+                                                                    <img title="" src="https://github.com/TheBossMagnus/YT-Music-Win11Color-Theme/blob/main/Images/youtube-music-logo.png?raw=true" alt="" width="50">
 
-<h3 align="center">Windows 11 color theme for YT Music Desktop</h3>
+<h3 align="center">Windows 11 color theme for YT Music</h3>
 
 <p align="center">
-    A YouTubeMusic custom css for varoius client following windows 11 colors
+    A YouTubeMusic custom CSS following windows 11 colors
     <br />
 </div>
 
@@ -12,8 +12,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">Screanshot</a>
+    <li><a href="#about-the-project">Screenshot</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -23,22 +22,24 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## Screanshot
+## Screenshot
+
 <img src="https://github.com/TheBossMagnus/YT-Music-Win11Color-Theme/blob/main/Images/1.png?raw=true">
 <img src="https://github.com/TheBossMagnus/YT-Music-Win11Color-Theme/blob/main/Images/2.png?raw=true">
-     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
 
-1. Download the .css file from release tab
+1. Download the .css file from the [release tab]([Releases · TheBossMagnus/YT-Music-Win11Color-Theme · GitHub](https://github.com/TheBossMagnus/YT-Music-Win11Color-Theme/releases))
+
 2. Add the custom .css 
+   
    - In [YT Music]([th-ch/youtube-music: YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) (github.com)](https://github.com/th-ch/youtube-music)) Option<visual tweaks<theme<import custom CSS file
    
-   - In [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) open the .css file with notepad and copy all the content. Next, go in settings>Appearence and enable custom theme, click on the pencil, paste all the code and click save.
+   - In [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) open the .css file with notepad and copy all the content. Next, go to settings>Appearence and enable custom theme, click on the pencil, paste all the code and click save.
    
-   - Should work with other clients that supports custom ccs
+   - Should work with other clients that support custom ccs
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
