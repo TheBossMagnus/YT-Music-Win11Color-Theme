@@ -29,9 +29,15 @@
 
 <!-- PROJECT LOGO -->
 
-                                                                   <img src="file:///C:/Users/tbmag/Downloads/youtube-music.svg" title="" alt="youtube-music.svg" width="87">
+                                                                   
 
-<h3 align="center">Windows 11 color theme for YT Music DeskTop</h3>
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/youtube-music-logo.svg" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Windows 11 color theme for YT Music Desktop</h3>
 
 <p align="center">
     A YouTubeMusic custom css for varoius client following windows 11 colors
@@ -55,10 +61,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## Screanshot
-
-![](C:\Users\tbmag\AppData\Roaming\marktext\images\2022-10-22-18-28-57-image.png)
-
-![](C:\Users\tbmag\AppData\Roaming\marktext\images\2022-10-22-18-28-32-image.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +100,8 @@ Repo Link: [https://github.com/TheBossMagnus/repo_name](https://github.com/giThe
 
 ## Acknowledgments
 
-* [Dracula project]([dracula/youtube-music-desktop: 🧛🏻‍♂️ Dark theme for YouTube Music Desktop App (github.com)](https://github.com/dracula/youtube-music-desktop)) for the the .css template
+* [Dracula project](https://github.com/dracula) for the the [.css template](https://github.com/dracula/youtube-music-desktop))
+* [othneildrew](https://github.com/othneildrew) for [README Template](https://github.com/othneildrew/Best-README-Template)
 * You for reading to the end!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
